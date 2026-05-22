@@ -1,0 +1,86 @@
+[
+    {
+        "Name": "Boat-001",
+        "SpriteSheet": "Boat-001",
+        "RequiredPoints": 0,
+        "ColliderWidth": 20,
+        "ColliderHeight": 42,
+        "MaxSpeed": 300.0,
+        "Acceleration": 200.0,
+        "RotationSpeed": 2.0,
+        "Health": 500,
+        "TurretMounts": [
+            {
+                "Turret": "Turret-001",
+                "LocalOffsetX": 0.0,
+                "LocalOffsetY": -4.0,
+                "LocalRotationRadians": 0.0
+            }
+        ],
+        "Icebreaker": {
+            "Enabled": true,
+            "CooldownSeconds": 0.05,
+            "DeltaPerHit": 10,
+            "ForwardTiles": 10,
+            "HalfWidthTiles": 3,
+            "BreakingLoopSfxKey": "IceBreakLoop",
+            "Probe": {
+                "Enabled": true,
+                "ForwardTiles": 6,
+                "HalfWidthTiles": 4,
+                "CooldownSeconds": 0.01,
+                "DeltaPerHit": 20,
+                "SlowdownPerSolidTile": 0.08,
+                "MinSpeedMultiplier": 0.2
+            }
+        }
+    },
+    {
+        "Name": "Boat-002",
+        "SpriteSheet": "Boat-002",
+        "RequiredPoints": 5000,
+        "ColliderWidth": 42,
+        "ColliderHeight": 90,
+        "MaxSpeed": 300.0,
+        "Acceleration": 150.0,
+        "RotationSpeed": 1.5,
+        "Health": 1000,
+        "TurretMounts": [
+            {
+                "Turret": "Turret-001",
+                "LocalOffsetX": 0.0,
+                "LocalOffsetY": -24.0,
+                "LocalRotationRadians": 0.0
+            },
+            {
+                "Turret": "Turret-001",
+                "LocalOffsetX": 12.0,
+                "LocalOffsetY": 6.0,
+                "LocalRotationRadians": 0.0
+            },
+            {
+                "Turret": "Turret-001",
+                "LocalOffsetX": -12.0,
+                "LocalOffsetY": 6.0,
+                "LocalRotationRadians": 0.0
+            }
+        ],
+        "Icebreaker": {
+            "Enabled": true,
+            "CooldownSeconds": 0.05,
+            "DeltaPerHit": 50,
+            "ForwardTiles": 10,
+            "HalfWidthTiles": 5,
+            "BreakingLoopSfxKey": "IceBreakLoop",
+            "Probe": {
+                "Enabled": true,
+                "ForwardTiles": 10,
+                "HalfWidthTiles": 6,
+                "CooldownSeconds": 0.01,
+                "DeltaPerHit": 20,
+                "SlowdownPerSolidTile": 0.1,
+                "MinSpeedMultiplier": 0.1
+            }
+        }
+    }
+]

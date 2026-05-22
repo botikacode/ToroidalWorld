@@ -1,0 +1,38 @@
+﻿[
+    {
+        "Name": "EnemyBase-001",
+        "SpriteSheet": "EnemyBase-001",
+        "ColliderWidth": 24,
+        "ColliderHeight": 52,
+        "Health": 5000,
+        "ContactDamage": 25,
+        "DeathVfx": "explosion_32x32",
+        "TurretDrop": "Turret-002",
+        "TurretMounts": [
+            {
+                "Turret": "Turret-002",
+                "LocalOffsetX": 0.0,
+                "LocalOffsetY": 0.0,
+                "LocalRotationRadians": 0.0
+            }
+        ]
+    },
+    {
+        "Name": "EnemyBase-002",
+        "SpriteSheet": "EnemyBase-002",
+        "ColliderWidth": 24,
+        "ColliderHeight": 52,
+        "Health": 10000,
+        "ContactDamage": 25,
+        "DeathVfx": "explosion_32x32",
+        "TurretDrop": "Turret-003",
+        "TurretMounts": [
+            {
+                "Turret": "Turret-003",
+                "LocalOffsetX": 0.0,
+                "LocalOffsetY": 0.0,
+                "LocalRotationRadians": 0.0
+            }
+        ]
+    }
+]

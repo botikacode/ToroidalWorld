@@ -1,0 +1,12 @@
+{
+    "FrameWidth": 6,
+    "FrameHeight": 21,
+    "Animations": [
+        {
+            "Name": "Idle",
+            "Frames": [ 0,1,2],
+            "FrameDuration": 0.2,
+            "IsLooping": false
+        }
+    ]
+}

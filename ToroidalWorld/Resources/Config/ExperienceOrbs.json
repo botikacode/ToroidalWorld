@@ -1,0 +1,17 @@
+[
+    {
+        "MinAmount": 1,
+        "MaxAmount": 5,
+        "SpriteSheet": "xp_orb_0"
+    },
+    {
+        "MinAmount": 6,
+        "MaxAmount": 9,
+        "SpriteSheet": "xp_orb_1"
+    },
+    {
+        "MinAmount": 10,
+        "MaxAmount": -1,
+        "SpriteSheet": "xp_orb_2"
+    }
+]

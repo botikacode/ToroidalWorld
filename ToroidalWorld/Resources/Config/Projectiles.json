@@ -1,0 +1,43 @@
+[
+    {
+        "Name": "Bullet",
+        "SpriteSheet": "Projectile-003",
+        "Speed": 600.0,
+        "RotationSpeed": 10.0,
+        "LifetimeSeconds": 4.0,
+        "ColliderSize": 1,
+        "Damage": 100,
+        "DamageInAreaRadius": 80.0,
+        "DamageInAreaDamage": 20,
+        "TerrainExplosionRadiusInTiles": 40,
+        "IsGuided": false
+    },
+    {
+        "Name": "HomingMissile",
+        "SpriteSheet": "Projectile-002",
+        "Speed": 400.0,
+        "RotationSpeed": 10.0,
+        "LifetimeSeconds": 6.0,
+        "ColliderSize": 2,
+        "Damage": 100,
+        "DamageInAreaRadius": 20.0,
+        "DamageInAreaDamage": 20,
+        "TerrainExplosionRadiusInTiles": 10,
+        "IsGuided": true,
+        "TargetSearchRangeTiles": 120.0
+    },
+    {
+        "Name": "Projectile-001",
+        "SpriteSheet": "Projectile-001",
+        "Speed": 500.0,
+        "RotationSpeed": 10.0,
+        "LifetimeSeconds": 2.0,
+        "ColliderSize": 2,
+        "Damage": 80,
+        "DamageInAreaRadius": 20.0,
+        "DamageInAreaDamage": 100,
+        "TerrainExplosionRadiusInTiles": -1,
+        "IsGuided": false,
+        "TargetSearchRangeTiles": 120.0
+    }
+]

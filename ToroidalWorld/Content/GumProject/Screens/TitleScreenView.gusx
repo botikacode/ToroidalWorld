@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScreenSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>TitleScreenView</Name>
+  <State>
+    <Name>Default</Name>
+    <Variable Type="float" Name="ContainerInstance.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">400</Value>
+    </Variable>
+    <Variable Type="string" Name="ContainerInstance.Parent" SetsValue="true" />
+    <Variable Type="float" Name="ContainerInstance.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">400</Value>
+    </Variable>
+    <Variable Type="float" Name="ContainerInstance.X" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="ContainerInstance.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="ContainerInstance.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="ContainerInstance.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="ContainerInstance.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="ContainerInstance.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">7</Value>
+    </Variable>
+    <Variable Type="string" Name="ContainerInstance1.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">ContainerInstance</Value>
+    </Variable>
+    <Variable Type="float" Name="ContainerInstance1.X" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="ContainerInstance1.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="ContainerInstance1.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="ContainerInstance1.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="ContainerInstance1.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="ContainerInstance1.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">7</Value>
+    </Variable>
+    <Variable Type="string" Name="ExitButton.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">StackPanelInstance</Value>
+    </Variable>
+    <Variable Type="string" Name="ExitButton.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Exit</Value>
+    </Variable>
+    <Variable Type="float" Name="ExitButton.X" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="ExitButton.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="ExitButton.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="ExitButton.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="ExitButton.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="ExitButton.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="string" Name="LeaderboardButton.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">StackPanelInstance</Value>
+    </Variable>
+    <Variable Type="string" Name="LeaderboardButton.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Leaderboard</Value>
+    </Variable>
+    <Variable Type="float" Name="LeaderboardButton.X" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="LeaderboardButton.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="LeaderboardButton.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="LeaderboardButton.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="LeaderboardButton.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="LeaderboardButton.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="string" Name="OptionsButton.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">StackPanelInstance</Value>
+    </Variable>
+    <Variable Type="string" Name="OptionsButton.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Options</Value>
+    </Variable>
+    <Variable Type="float" Name="OptionsButton.X" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="OptionsButton.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="OptionsButton.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="OptionsButton.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="OptionsButton.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="OptionsButton.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="float" Name="StackPanelInstance.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">100</Value>
+    </Variable>
+    <Variable Type="DimensionUnitType" Name="StackPanelInstance.HeightUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="string" Name="StackPanelInstance.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">ContainerInstance1</Value>
+    </Variable>
+    <Variable Type="float" Name="StackPanelInstance.StackSpacing" SetsValue="true">
+      <Value xsi:type="xsd:float">15</Value>
+    </Variable>
+    <Variable Type="float" Name="StackPanelInstance.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">100</Value>
+    </Variable>
+    <Variable Type="DimensionUnitType" Name="StackPanelInstance.WidthUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="float" Name="StackPanelInstance.X" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="float" Name="StackPanelInstance.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="string" Name="StartButton.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">StackPanelInstance</Value>
+    </Variable>
+    <Variable Type="string" Name="StartButton.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Start</Value>
+    </Variable>
+    <Variable Type="float" Name="StartButton.X" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="StartButton.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="StartButton.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="StartButton.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="StartButton.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="StartButton.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+  </State>
+  <Instance Name="StartButton" BaseType="Controls/ButtonStandardCustom" />
+  <Instance Name="LeaderboardButton" BaseType="Controls/ButtonStandardCustom" />
+  <Instance Name="OptionsButton" BaseType="Controls/ButtonStandardCustom" />
+  <Instance Name="ExitButton" BaseType="Controls/ButtonStandardCustom" />
+  <Instance Name="StackPanelInstance" BaseType="Controls/StackPanel" />
+  <Instance Name="ContainerInstance1" BaseType="Container" />
+  <Instance Name="ContainerInstance" BaseType="Container" />
+  <Behaviors />
+</ScreenSave>

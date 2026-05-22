@@ -1,0 +1,12 @@
+{
+    "FrameWidth": 9,
+    "FrameHeight": 9,
+    "Animations": [
+        {
+            "Name": "Idle",
+            "Frames": [ 0,1,2],
+            "FrameDuration": 0.1,
+            "IsLooping": true
+        }
+    ]
+}

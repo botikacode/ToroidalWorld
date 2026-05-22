@@ -1,0 +1,951 @@
+{
+  "UserEvents": {
+    "fff61385837521fa274818ee46fbb5458ad01757620c4e79a02801b2827c017b": [
+      {
+        "NewName": "LeaderboardScreenView",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 0,
+        "TimestampUtc": "2026-04-08T16:21:17.3415602Z"
+      },
+      {
+        "NewName": "LeaderboardScreenView.LabelInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-08T16:21:53.6445914Z"
+      },
+      {
+        "NewName": "LeaderboardScreenView.StackPanelInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-08T16:21:53.6936889Z"
+      },
+      {
+        "NewName": "LeaderboardScreenView.ButtonDeny",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-08T16:21:53.7308739Z"
+      },
+      {
+        "NewName": "LeaderboardScreenView.WindowInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-08T16:21:53.7670218Z"
+      },
+      {
+        "NewName": "LeaderboardScreenView.ButtonExit",
+        "OldName": "LeaderboardScreenView.ButtonDeny",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-08T16:22:51.0929667Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2026-04-13T14:05:04.1767636Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "Controls/RecordLabel (Container).Controls/ButtonStandardCustom ButtonStandardCustomInstance in Controls/RecordLabel (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T14:05:24.5608612Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).AtributeName1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T14:05:51.2334985Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).Value1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T14:05:51.2784111Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).StackPanelInstance1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T14:05:51.3199608Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "Controls/RecordLabel (Container).Controls/Label AtributeName1 in Controls/RecordLabel (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T14:06:11.5282319Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "Controls/RecordLabel (Container).Controls/Label Value1 in Controls/RecordLabel (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T14:06:11.5812005Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "Controls/RecordLabel (Container).Controls/StackPanel StackPanelInstance1 in Controls/RecordLabel (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T14:06:11.6366213Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).AtributeName1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T14:06:15.9035023Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).Value1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T14:06:15.9446299Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).TimeLabel",
+        "OldName": "Controls/RecordLabel (Container).AtributeName",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T14:06:41.4252286Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).TimeValue",
+        "OldName": "Controls/RecordLabel (Container).Value",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T14:06:49.1378848Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).KillsLabel",
+        "OldName": "Controls/RecordLabel (Container).AtributeName1",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T14:07:04.5272374Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).KillsValue",
+        "OldName": "Controls/RecordLabel (Container).Value1",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T14:07:13.3524854Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).TimeLabel1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T14:08:05.3936783Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).TimeValue1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T14:08:05.441064Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).DateLabel",
+        "OldName": "Controls/RecordLabel (Container).TimeLabel1",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T14:08:44.0100466Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).DateValue",
+        "OldName": "Controls/RecordLabel (Container).TimeValue1",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T14:08:50.9674925Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).DateLabel1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T14:09:06.9679314Z"
+      },
+      {
+        "NewName": "Controls/RecordLabel (Container).NumAttemptLabel",
+        "OldName": "Controls/RecordLabel (Container).DateLabel1",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T14:09:35.9668441Z"
+      },
+      {
+        "NewName": "TitleScreenView.StartButton1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T14:11:28.446785Z"
+      },
+      {
+        "NewName": "Controls/StackPanel1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2026-04-13T14:12:33.3820328Z"
+      },
+      {
+        "NewName": "TitleScreenView.StackPanelInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T14:12:59.0605637Z"
+      },
+      {
+        "NewName": "TitleScreenView.LeaderboardButton",
+        "OldName": "TitleScreenView.StartButton1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T14:15:00.0684323Z"
+      },
+      {
+        "NewName": "Controls/StatsLabel",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2026-04-13T15:15:00.2484002Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "Controls/StatsLabel (Container).Controls/ButtonStandardCustom ButtonStandardCustomInstance in Controls/StatsLabel (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T15:15:09.2442291Z"
+      },
+      {
+        "NewName": "Controls/StatsLabel (Container).StatName",
+        "OldName": "Controls/StatsLabel (Container).AtributeName",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T15:15:18.8026037Z"
+      },
+      {
+        "NewName": "Controls/StatsLabel (Container).StatValue",
+        "OldName": "Controls/StatsLabel (Container).Value",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T15:15:25.7204198Z"
+      },
+      {
+        "NewName": "Controls/StatsLabel (Container).Value",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T15:15:39.3464319Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "Controls/StatsLabel (Container).Controls/Label StatValue in Controls/StatsLabel (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T15:15:39.406507Z"
+      },
+      {
+        "NewName": "Controls/StatsLabel (Container).StatValue",
+        "OldName": "Controls/StatsLabel (Container).Value",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T15:15:48.417366Z"
+      },
+      {
+        "NewName": "Controls/StatsLabel (Container).Icon",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T15:18:01.9401119Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "Controls/StatsLabel (Container).Controls/Label StatName in Controls/StatsLabel (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T15:19:11.9430891Z"
+      },
+      {
+        "NewName": "Controls/StatsLabel1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2026-04-13T15:21:02.3072543Z"
+      },
+      {
+        "NewName": "GameplayScreenView.StatsLabelInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T15:21:26.8296777Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "GameplayScreenView.Controls/StatsLabel StatsLabelInstance in GameplayScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T15:22:03.373122Z"
+      },
+      {
+        "NewName": "Controls/StackPanel2",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2026-04-13T15:22:29.8688744Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "Controls/StackPanel2",
+        "ElementType": "Components",
+        "EventType": 1,
+        "TimestampUtc": "2026-04-13T15:22:44.7685772Z"
+      },
+      {
+        "NewName": "GameplayScreenView.StackPanelInstance1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T15:22:54.8981406Z"
+      },
+      {
+        "NewName": "GameplayScreenView.StatsLabelInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T15:23:24.7866328Z"
+      },
+      {
+        "NewName": "GameplayScreenView.StatsLabelInstance1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T15:23:38.2887054Z"
+      },
+      {
+        "NewName": "GameplayScreenView.Ç",
+        "OldName": "GameplayScreenView.StatsLabelInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T15:50:54.7780965Z"
+      },
+      {
+        "NewName": "GameplayScreenView.KillsLabel",
+        "OldName": "GameplayScreenView.Ç",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T15:51:13.4881028Z"
+      },
+      {
+        "NewName": "GameplayScreenView.TimeLabel",
+        "OldName": "GameplayScreenView.StatsLabelInstance1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T15:51:26.8927504Z"
+      },
+      {
+        "NewName": "TitleScreenView.WindowInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T16:29:26.1347404Z"
+      },
+      {
+        "NewName": "Controls/TraslucentWindow",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2026-04-13T16:35:51.952109Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "Controls/TraslucentWindow",
+        "ElementType": "Components",
+        "EventType": 1,
+        "TimestampUtc": "2026-04-13T16:39:31.4191685Z"
+      },
+      {
+        "NewName": "Controls/WindowCopy",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2026-04-13T16:40:15.0013409Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "Controls/WindowCopy",
+        "ElementType": "Components",
+        "EventType": 1,
+        "TimestampUtc": "2026-04-13T16:40:51.9787109Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "TitleScreenView.Controls/Window WindowInstance in TitleScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T16:41:14.8820563Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "TitleScreenView.Text Title in TitleScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T16:42:06.877483Z"
+      },
+      {
+        "NewName": "TitleScreenView.LabelInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T16:42:10.7253281Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 0,
+        "TimestampUtc": "2026-04-13T16:53:43.3856112Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.WindowInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T16:53:56.3304327Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.LabelInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T16:54:11.9756602Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.StackPanelInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T16:55:10.6592722Z"
+      },
+      {
+        "NewName": "Controls/ButtonIconCustom",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2026-04-13T16:57:17.9919251Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "Controls/ButtonIconCustom (Container).NineSlice Background in Controls/ButtonIconCustom (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T16:57:26.8265407Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.ButtonIconCustomInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T16:58:57.1071856Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.ButtonIconCustomInstance1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T16:59:26.1478452Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SelectPlayerScreenView.Controls/ButtonIconCustom ButtonIconCustomInstance1 in SelectPlayerScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:01:34.2925504Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.ButtonIconCustomInstance1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:01:36.464287Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.ButtonLeft",
+        "OldName": "SelectPlayerScreenView.ButtonIconCustomInstance1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T17:02:12.3486328Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.ButtonIRight",
+        "OldName": "SelectPlayerScreenView.ButtonIconCustomInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T17:02:22.4837612Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.ContainerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:02:40.9612936Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.ButtonStandardCustomInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:03:52.6083272Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SelectPlayerScreenView.Controls/ButtonStandardCustom ButtonStandardCustomInstance in SelectPlayerScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:04:06.7659966Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.ButtonIconCustomInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:04:42.1089822Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SelectPlayerScreenView.Controls/ButtonIconCustom ButtonIconCustomInstance in SelectPlayerScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:04:48.1358077Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.ButtonStandardCustomInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:04:55.3815047Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.ButtonSelect",
+        "OldName": "SelectPlayerScreenView.ButtonStandardCustomInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T17:05:49.8311179Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.LeftButton",
+        "OldName": "SelectPlayerScreenView.ButtonLeft",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T17:06:05.5742464Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.RightButton",
+        "OldName": "SelectPlayerScreenView.ButtonIRight",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T17:06:11.645656Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.SelectButton",
+        "OldName": "SelectPlayerScreenView.ButtonSelect",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T17:06:21.7296397Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.LabelInstance1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:11:22.7656725Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.LeftButton1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:12:27.8722708Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.ContainerInstance1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:12:27.914175Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.RightButton1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:12:27.9558105Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.StackPanelInstance1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:12:28.0003359Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SelectPlayerScreenView.Controls/ButtonIconCustom LeftButton1 in SelectPlayerScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:12:29.7242268Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SelectPlayerScreenView.Container ContainerInstance1 in SelectPlayerScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:12:29.7250554Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SelectPlayerScreenView.Controls/ButtonIconCustom RightButton1 in SelectPlayerScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:12:29.7349883Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SelectPlayerScreenView.Controls/StackPanel StackPanelInstance1 in SelectPlayerScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:12:29.7403938Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.StackPanelInstance1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:12:39.2335396Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.RemaingPointsLabel",
+        "OldName": "SelectPlayerScreenView.LabelInstance1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T17:15:19.3312879Z"
+      },
+      {
+        "NewName": "SelectPlayerScreenView.SpriteInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:16:19.6593868Z"
+      },
+      {
+        "NewName": "OptionsScreenView.StackPanelInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:40:55.6473583Z"
+      },
+      {
+        "NewName": "OptionsScreenView.ContainerInstance3",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:41:40.5378043Z"
+      },
+      {
+        "NewName": "OptionsScreenView.ToggleFullscreenButton1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:41:40.5827163Z"
+      },
+      {
+        "NewName": "OptionsScreenView.H2",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:41:40.6241616Z"
+      },
+      {
+        "NewName": "OptionsScreenView.ContainerInstance4",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:43:21.6054969Z"
+      },
+      {
+        "NewName": "OptionsScreenView.ContainerInstance5",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:43:21.6512319Z"
+      },
+      {
+        "NewName": "OptionsScreenView.StackPanelInstance1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:43:21.7107274Z"
+      },
+      {
+        "NewName": "OptionsScreenView.ToggleFullscreenButton2",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:43:21.7552978Z"
+      },
+      {
+        "NewName": "OptionsScreenView.H3",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:43:21.797498Z"
+      },
+      {
+        "NewName": "OptionsScreenView.ToggleFullscreenButton3",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:43:21.8390892Z"
+      },
+      {
+        "NewName": "OptionsScreenView.H4",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:43:21.880828Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Controls/StackPanel StackPanelInstance1 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:43:27.8370073Z"
+      },
+      {
+        "NewName": "OptionsScreenView.StackPanelInstance1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:43:36.0611003Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Container ContainerInstance2 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:44:02.258008Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Controls/StackPanel StackPanelInstance1 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:44:08.9443634Z"
+      },
+      {
+        "NewName": "OptionsScreenView.ContainerInstance6",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:44:10.6759355Z"
+      },
+      {
+        "NewName": "OptionsScreenView.ToggleFullscreenButton4",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:44:10.7362637Z"
+      },
+      {
+        "NewName": "OptionsScreenView.H5",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:44:10.7800641Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Container ContainerInstance6 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:44:16.6209666Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Container ContainerInstance3 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:44:32.6428705Z"
+      },
+      {
+        "NewName": "OptionsScreenView.StackPanelInstance1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:44:59.0396866Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Text H3 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:45:38.1451651Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Controls/ButtonStandardCustom ToggleFullscreenButton2 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:45:38.1868283Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Container ContainerInstance4 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:45:38.2314825Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Text H4 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:45:43.743954Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Controls/ButtonStandardCustom ToggleFullscreenButton3 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:45:43.7846027Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Container ContainerInstance5 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:45:43.831206Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Controls/ButtonStandardCustom ToggleFullscreenButton4 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:45:47.8822148Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Text H1 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:45:53.7092127Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Text H5 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:46:00.1431602Z"
+      },
+      {
+        "NewName": "OptionsScreenView.H3",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:47:53.9876215Z"
+      },
+      {
+        "NewName": "OptionsScreenView.StackPanelInstance2",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:47:54.0287523Z"
+      },
+      {
+        "NewName": "OptionsScreenView.ToggleFullscreenButton2",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T17:47:54.0720723Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Controls/ButtonStandardCustom ToggleFullscreenButton1 in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T17:48:15.7087286Z"
+      },
+      {
+        "NewName": "OptionsScreenView.DeleteProgressButton",
+        "OldName": "OptionsScreenView.ToggleFullscreenButton2",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T17:53:58.2941362Z"
+      },
+      {
+        "NewName": "OptionsScreenView.StartButton",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T18:19:25.3113809Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Controls/ButtonStandardCustom ToggleFullscreenButton in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T18:19:48.3560413Z"
+      },
+      {
+        "NewName": "OptionsScreenView.ToggleFullscreenButton",
+        "OldName": "OptionsScreenView.StartButton",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T18:20:06.0290058Z"
+      },
+      {
+        "NewName": "OptionsScreenView.ToggleFullscreenButton1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T18:20:11.1558575Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "OptionsScreenView.Controls/ButtonStandardCustom DeleteProgressButton in OptionsScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T18:20:19.376416Z"
+      },
+      {
+        "NewName": "OptionsScreenView.DeleteProgressButton",
+        "OldName": "OptionsScreenView.ToggleFullscreenButton1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-04-13T18:20:30.0043866Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "TitleScreenView.Controls/Label LabelInstance in TitleScreenView",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-04-13T18:50:00.8720896Z"
+      },
+      {
+        "NewName": "OptionsScreenView.WindowInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-04-13T18:52:43.4766383Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScreenSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>NewTurretScreenView</Name>
+  <State>
+    <Name>Default</Name>
+    <Variable Type="string" Name="ButtonDeny.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">WindowInstance</Value>
+    </Variable>
+    <Variable Type="string" Name="ButtonDeny.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Nah</Value>
+    </Variable>
+    <Variable Type="float" Name="ButtonDeny.X" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="ButtonDeny.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="ButtonDeny.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="ButtonDeny.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">-20</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="ButtonDeny.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">2</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="ButtonDeny.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">5</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="LabelInstance.HorizontalAlignment" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="string" Name="LabelInstance.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">WindowInstance</Value>
+    </Variable>
+    <Variable Type="StyleCategory" Name="LabelInstance.StyleCategoryState" SetsValue="true">
+      <Value xsi:type="xsd:string">Title</Value>
+    </Variable>
+    <Variable Type="string" Name="LabelInstance.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">New turret:</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="LabelInstance.VerticalAlignment" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="float" Name="LabelInstance.X" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="LabelInstance.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="LabelInstance.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="LabelInstance.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">20</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="LabelInstance.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="LabelInstance.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="ButtonCategory" Name="NewTurretButton.ButtonCategoryState" SetsValue="true">
+      <Value xsi:type="xsd:string">Enabled</Value>
+    </Variable>
+    <Variable Type="string" Name="NewTurretButton.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">WindowInstance</Value>
+    </Variable>
+    <Variable Type="float" Name="NewTurretButton.X" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="NewTurretButton.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="NewTurretButton.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="NewTurretButton.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="NewTurretButton.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="NewTurretButton.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">7</Value>
+    </Variable>
+    <Variable Type="float" Name="WindowInstance.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">220</Value>
+    </Variable>
+    <Variable Type="float" Name="WindowInstance.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">400</Value>
+    </Variable>
+    <Variable Type="float" Name="WindowInstance.X" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="WindowInstance.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="WindowInstance.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="WindowInstance.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="WindowInstance.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="WindowInstance.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">7</Value>
+    </Variable>
+  </State>
+  <Instance Name="LabelInstance" BaseType="Controls/Label" />
+  <Instance Name="NewTurretButton" BaseType="Controls/ButtonStandardIconCustom" />
+  <Instance Name="ButtonDeny" BaseType="Controls/ButtonDenyCustom" />
+  <Instance Name="WindowInstance" BaseType="Controls/Window" />
+  <Behaviors />
+</ScreenSave>

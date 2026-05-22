@@ -1,0 +1,12 @@
+{
+    "FrameWidth": 32,
+    "FrameHeight": 32,
+    "Animations": [
+        {
+            "Name": "Idle",
+            "Frames": [ 0 ],
+            "FrameDuration": 0.2,
+            "IsLooping": false
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "FrameWidth": 64,
+    "FrameHeight": 64,
+    "Animations": [
+        {
+            "Name": "Idle",
+            "Frames": [ 0 ],
+            "FrameDuration": 0.2,
+            "IsLooping": true
+        },
+        {
+            "Name": "Move",
+            "Frames": [ 0],
+            "FrameDuration": 0.1,
+            "IsLooping": true
+        }
+    ]
+}

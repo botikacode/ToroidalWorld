@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "Enemy-001",
+        "DeathVfx": "explosion_32x32",
+        "ColliderSize": 16,
+        "MoveSpeed": 300.0,
+        "Health": 50,
+        "Damage": 10,
+        "ExperienceDrop": 3
+    },
+    {
+        "name": "Enemy-002",
+        "DeathVfx": null,
+        "ColliderSize": 24,
+        "moveSpeed": 220.0,
+        "health": 120,
+        "damage": 12,
+        "ExperienceDrop": 10
+    },
+    {
+        "Name": "Enemy-003",
+        "DeathVfx": "explosion_32x32",
+        "ColliderSize": 16,
+        "MoveSpeed": 320.0,
+        "Health": 40,
+        "Damage": 20,
+        "ExperienceDrop": 6
+    }
+]

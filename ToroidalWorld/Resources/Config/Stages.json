@@ -1,0 +1,64 @@
+﻿[
+    {
+        "Id": "stage_01",
+        "Name": "Infinito",
+        "WaveDurationSeconds": 20.0,
+        "SpawnIntervalSeconds": 0.5,
+        "BaseEnemiesPerWave": 6,
+        "Scaling": {
+            "EnemyCountMultiplier": 1.15,
+            "HealthMultiplier": 1.2,
+            "SpeedMultiplier": 1.05,
+            "DamageMultiplier": 1.12,
+            "MaxEnemiesPerWave": 60
+        },
+        "SpawnRing": {
+            "MinRadius": 900.0,
+            "MaxRadius": 1300.0
+        },
+        "Participants": [
+            {
+                "EnemyName": "Enemy-001",
+                "StartWave": 0,
+                "EndWave": -1,
+                "Weight": 1.0
+            },
+            {
+                "EnemyName": "Enemy-002",
+                "StartWave": 3,
+                "EndWave": -1,
+                "Weight": 3.0
+            },
+            {
+                "EnemyName": "Enemy-003",
+                "StartWave": 2,
+                "EndWave": -1,
+                "Weight": 2.0
+            }
+        ],
+        "EnemyBases": [
+            "EnemyBase-001",
+            "EnemyBase-002",
+            "EnemyBase-001",
+            "EnemyBase-002",
+            "EnemyBase-001",
+            "EnemyBase-002",
+            "EnemyBase-001",
+            "EnemyBase-002",
+            "EnemyBase-001",
+            "EnemyBase-002",
+            "EnemyBase-001",
+            "EnemyBase-002",
+            "EnemyBase-001",
+            "EnemyBase-002",
+            "EnemyBase-001",
+            "EnemyBase-002",
+            "EnemyBase-001",
+            "EnemyBase-002",
+            "EnemyBase-001",
+            "EnemyBase-002",
+            "EnemyBase-001",
+            "EnemyBase-002"
+        ]
+    }
+]

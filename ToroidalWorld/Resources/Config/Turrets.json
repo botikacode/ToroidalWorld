@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Turret-001",
+        "SpriteSheet": "Turret-001",
+        "TurnSpeed": 5,
+        "AimOffsetRadians": 0.0,
+        "FireAngleToleranceRadians": 0.05,
+        "TargetSearchRangeTiles": 200.0,
+        "CooldownSeconds": 0.5,
+        "Projectile": "Projectile-001",
+        "ShootSound": "sfx_03a",
+        "Description": "Advanced variant with modified projectile behavior."
+    },
+    {
+        "Name": "Turret-002",
+        "SpriteSheet": "Turret-002",
+        "TurnSpeed": 3.5,
+        "AimOffsetRadians": 0.0,
+        "FireAngleToleranceRadians": 0.05,
+        "TargetSearchRangeTiles": 180.0,
+        "CooldownSeconds": 1.25,
+        "Projectile": "Bullet",
+        "ShootSound": "sfx_03a",
+        "Description": "Heavy turret that launches heavy explosives"
+    },
+    {
+        "Name": "Turret-003",
+        "SpriteSheet": "Turret-003",
+        "TurnSpeed": 3.5,
+        "AimOffsetRadians": 0.0,
+        "FireAngleToleranceRadians": 0.35,
+        "TargetSearchRangeTiles": 180.0,
+        "CooldownSeconds": 1.0,
+        "Projectile": "HomingMissile",
+        "ShootSound": "sfx_03a",
+        "Description": "Heavy turret that launches homing missiles."
+    }
+]

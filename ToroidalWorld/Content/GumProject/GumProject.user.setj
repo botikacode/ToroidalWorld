@@ -1,0 +1,37 @@
+{
+  "TreeViewState": {
+    "ExpandedNodes": [
+      "Screens",
+      "Screens/ChangeTurretScreenView",
+      "Screens/ChangeTurretScreenView/WindowInstance",
+      "Screens/GameOverScreenView",
+      "Screens/GameOverScreenView/WindowInstance",
+      "Screens/GameOverScreenView/WindowInstance/StackPanelInstance",
+      "Screens/GameOverScreenView/WindowInstance/StackPanelInstance1",
+      "Screens/GameplayScreenView",
+      "Screens/GameplayScreenView/StackPanelInstance",
+      "Screens/GameplayScreenView/StackPanelInstance/StackPanelInstance1",
+      "Screens/NewTurretScreenView",
+      "Screens/NewTurretScreenView/WindowInstance",
+      "Screens/OptionsScreenView",
+      "Screens/OptionsScreenView/ContainerInstance",
+      "Screens/OptionsScreenView/ContainerInstance/ContainerInstance1",
+      "Screens/OptionsScreenView/ContainerInstance/ContainerInstance1/StackPanelInstance1",
+      "Screens/OptionsScreenView/ContainerInstance/ContainerInstance1/StackPanelInstance1/StackPanelInstance",
+      "Screens/OptionsScreenView/ContainerInstance/ContainerInstance1/StackPanelInstance1/StackPanelInstance2",
+      "Screens/SelectPlayerScreenView",
+      "Screens/SelectPlayerScreenView/WindowInstance",
+      "Screens/SelectPlayerScreenView/WindowInstance/StackPanelInstance1",
+      "Screens/SelectPlayerScreenView/WindowInstance/StackPanelInstance1/StackPanelInstance",
+      "Screens/SelectPlayerScreenView/WindowInstance/StackPanelInstance1/StackPanelInstance/ContainerInstance",
+      "Screens/TitleScreenView",
+      "Screens/TitleScreenView/ContainerInstance",
+      "Screens/TitleScreenView/ContainerInstance/ContainerInstance1",
+      "Components",
+      "Components/Controls",
+      "Components/Controls/ButtonDenyCustom",
+      "Components/Controls/TextBox",
+      "Standard"
+    ]
+  }
+}
