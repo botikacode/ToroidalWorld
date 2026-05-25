@@ -4,7 +4,7 @@ Proyecto desarrollado como Trabajo de Fin de Grado (TFG).
 
 ## ▶️ Ejecutar directamente (recomendado)
 
-Descarga el archivo `ToroidalWorld-v1.0.0.zip` desde la sección 
+Descarga el archivo `ToroidalWorld-v1.0.1.zip` desde la sección 
 [Releases](../../releases/latest), descomprímelo y ejecuta `ToroidalWorld.exe` 
 desde dentro de la carpeta resultante.
 
