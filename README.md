@@ -1,31 +1,23 @@
 # ToroidalWorld
+2D survival game set in a toroidal world generated with Perlin noise.
 
-Videojuego 2D de supervivencia en mapa toroidal generado mediante ruido Perlin.
+## ▶️ Run directly (recommended)
+Download `ToroidalWorld-v1.0.1.zip` from the [Releases](../../releases/latest) section, extract it and run `ToroidalWorld.exe` from inside the extracted folder.
 
-## ▶️ Ejecutar directamente (recomendado)
+## 🔧 Build from source
+If you prefer to build the project yourself, you need:
+1. [Visual Studio 2022](https://visualstudio.microsoft.com/) with the **.NET desktop development** workload
+2. [.NET 8 SDK](https://dotnet.microsoft.com/download) or later
 
-Descarga el archivo `ToroidalWorld-v1.0.1.zip` desde la sección 
-[Releases](../../releases/latest), descomprímelo y ejecuta `ToroidalWorld.exe` 
-desde dentro de la carpeta resultante.
+Once installed:
+1. Clone the repository
+2. Open `ToroidalWorld.sln` in Visual Studio
+3. Build and run
 
-## 🔧 Compilar desde el código fuente
-
-Si prefieres compilar el proyecto, necesitas:
-
-1. [Visual Studio 2022](https://visualstudio.microsoft.com/) con el workload **.NET desktop development**
-2. [.NET 8 SDK](https://dotnet.microsoft.com/download) o superior
-
-Una vez instalado lo anterior:
-1. Clona el repositorio
-2. Abre `ToroidalWorld.sln` en Visual Studio
-3. Compila y ejecuta
-
-## 📁 Carpeta Resources
-
-La carpeta `Resources/` contiene todo el contenido del juego y puede editarse sin recompilar:
-
-- **`Config/`** — archivos JSON con las definiciones de entidades del juego (barcos, enemigos, torretas, proyectiles, oleadas...). Puedes modificar estadísticas o añadir nuevas entidades siguiendo el mismo formato.
-- **`Sprites/`** — texturas en `.png`, cada una acompañada de un `.json` con el mismo nombre que define el spritesheet (tamaño de frame y animaciones).
-- **`Textures/`** — texturas de fondo y otros elementos visuales estáticos.
-- **`Music/`** — música de fondo en formato `.ogg`.
-- **`SoundEffects/`** — efectos de sonido en formato `.wav`.
+## 📁 Resources folder
+The `Resources/` folder contains all game content and can be edited without recompiling:
+- **`Config/`** — JSON files defining all game entities (ships, enemies, turrets, projectiles, waves...). You can modify stats or add new entities by following the same format.
+- **`Sprites/`** — `.png` textures, each paired with a `.json` file of the same name defining the spritesheet (frame size and animations).
+- **`Textures/`** — background textures and other static visual elements.
+- **`Music/`** — background music in `.ogg` format.
+- **`SoundEffects/`** — sound effects in `.wav` format.
