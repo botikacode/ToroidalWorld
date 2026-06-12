@@ -1,6 +1,6 @@
 # ToroidalWorld
 
-Proyecto desarrollado como Trabajo de Fin de Grado (TFG).
+Videojuego 2D de supervivencia en mapa toroidal generado mediante ruido Perlin.
 
 ## ▶️ Ejecutar directamente (recomendado)
 
